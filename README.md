@@ -8,15 +8,15 @@ The framework is integrated with **Extent Reports** for reporting and **GitHub A
 
 ---
 
-## 🚀 Features
-- ✅ API Test Automation with **RestAssured**
-- ✅ **TestNG** for test execution & grouping
-- ✅ **Extent Reports** for detailed HTML reports
-- ✅ Covers **Positive & Negative Test Scenarios**
-- ✅ Supports **CRUD Operations (Create, Read, Update, Delete)**
-- ✅ Request Chaining between API calls
-- ✅ Environment Configurable (`config.properties`)
-- ✅ Integrated with **GitHub Actions CI/CD**
+##  Features
+-  API Test Automation with **RestAssured**
+- **TestNG** for test execution & grouping
+- **Extent Reports** for detailed HTML reports
+-  Covers **Positive & Negative Test Scenarios**
+-  Supports **CRUD Operations (Create, Read, Update, Delete)**
+-  Request Chaining between API calls
+-  Environment Configurable (`config.properties`)
+-  Integrated with **GitHub Actions CI/CD**
 
 ---
 
