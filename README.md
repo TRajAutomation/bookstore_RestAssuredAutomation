@@ -1,6 +1,6 @@
 # 📘 Bookstore API Automation Framework
 
-## 📖 Overview
+##  Overview
 This project is an **API Test Automation Framework** built using **Java + RestAssured + TestNG + Maven**.  
 It automates the testing of a **Bookstore API (FastAPI backend)** and validates major **CRUD operations**.
 
@@ -20,7 +20,7 @@ The framework is integrated with **Extent Reports** for reporting and **GitHub A
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 bookstore_automation_java/
 │── src/
 │ ├── main/
@@ -44,7 +44,7 @@ bookstore_automation_java/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Java 17
 - **API Testing:** RestAssured
 - **Test Framework:** TestNG
@@ -58,5 +58,5 @@ bookstore_automation_java/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/TRajAutomation/bookstore_RestAssuredAutomation.git
 cd bookstore_automation_java
