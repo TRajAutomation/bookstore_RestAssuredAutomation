@@ -21,7 +21,7 @@ The framework is integrated with **Extent Reports** for reporting and **GitHub A
 ---
 
 ##  Project Structure
-bookstore_automation_java/
+```bookstore_automation_java/
 │── src/
 │ ├── main/
 │ │ └── java/
@@ -40,7 +40,7 @@ bookstore_automation_java/
 │── .github/workflows/maven.yml # GitHub Actions CI/CD pipeline
 │── README.md # Documentation
 
-
+```
 
 ---
 
